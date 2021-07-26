@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
 
 :root {
-  --primary-color: #a21caf;
-  --secondary-color: #86198f;
+  --primary-color: #86198f;
+  --secondary-color: #a21caf;
   --light-green: #fdefff;
   --dark-green: #701a75;
   --output-color: #f7dffd;
@@ -130,11 +130,6 @@ body {
 
 .container input[type="date"]:focus {
   background-color: white;
-}
-
-.container input[type="date"]:focus-visible {
-  background-color: white;
-  color: black;
 }
 
 @media only screen and (max-width: 520px) {
