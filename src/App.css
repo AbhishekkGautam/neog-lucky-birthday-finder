@@ -128,6 +128,10 @@ body {
   color: dodgerblue;
 }
 
+.container input[type="date"]:focus {
+  background-color: white;
+}
+
 @media only screen and (max-width: 520px) {
   .hero {
     padding-top: 2rem;
