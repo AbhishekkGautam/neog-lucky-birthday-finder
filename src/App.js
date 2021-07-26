@@ -129,7 +129,7 @@ function App() {
                   width={200}
                 />
                 <p style={{ paddingTop: "2rem", textAlign: "center" }}>
-                  Hurray! You are a lucky person!
+                  Hurray!! You are a lucky person.
                 </p>
               </div>
               <button id="btn-translate" onClick={resetBtnHandler}>
@@ -146,7 +146,7 @@ function App() {
                   style={{ marginTop: "-2rem" }}
                 />
                 <p style={{ textAlign: "center", paddingTop: "0.5rem" }}>
-                  Oops!! Your birthday is not lucky!
+                  Oops!! Your birthday is not lucky.
                 </p>
               </div>
               <button id="btn-translate" onClick={resetBtnHandler}>
