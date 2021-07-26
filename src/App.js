@@ -150,7 +150,7 @@ function App() {
                 </p>
               </div>
               <button id="btn-translate" onClick={resetBtnHandler}>
-                Reset
+                Try Again
               </button>
             </div>
           )}
