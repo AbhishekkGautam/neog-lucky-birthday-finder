@@ -132,6 +132,11 @@ body {
   background-color: white;
 }
 
+.container input[type="date"]:focus-visible {
+  background-color: white;
+  color: black;
+}
+
 @media only screen and (max-width: 520px) {
   .hero {
     padding-top: 2rem;
