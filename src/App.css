@@ -49,8 +49,7 @@ body {
 }
 
 .container input {
-  width: 90%;
-  max-width: 320px;
+  width: 288px;
   min-height: 20px;
   padding: 1rem;
   font-family: "DM Sans", sans-serif;
