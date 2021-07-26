@@ -140,4 +140,7 @@ body {
   .section {
     padding: 0rem 0.5rem;
   }
+  .container input[type="date"]::-webkit-calendar-picker-indicator {
+    padding-right: 0.5rem;
+  }
 }
